@@ -1,0 +1,14 @@
+font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Shrikhand', cursive;
+
+font-size:
+h1  h2  h3  h4  h5  h6
+96  64  48  32  20  16
+
+spacing:
+每1=4px
+設定1~25即4px~100px
+
+color:
+primary:#7000FF
+

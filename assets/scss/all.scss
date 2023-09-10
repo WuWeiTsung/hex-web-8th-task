@@ -1,0 +1,12 @@
+//字型
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700;900&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@300&display=swap');
+
+//Bootstrap5
+@import "../../node_modules/bootstrap/scss/functions";
+@import './utils/variables';
+@import "../../node_modules/bootstrap";
+
+
+//custom styles 
+@import "./utils/custom"

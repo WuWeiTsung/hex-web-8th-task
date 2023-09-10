@@ -1,0 +1,23 @@
+//字型
+.font-shrikhand{
+    font-family: 'Shrikhand', cursive;
+}
+
+.font-saira{
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+.show  {
+    @media (max-width: 991px) {
+        opacity: .5;
+        
+    }
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-32{
+    width:32%;
+}
